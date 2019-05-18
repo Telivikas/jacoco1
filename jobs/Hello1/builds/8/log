@@ -1,0 +1,8 @@
+Started by user [8mha:////4Pgb4bhbQPX7csfaTLvHE6A6WLF5PUI32CWI7XTPUB9KAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9sszk7EpDAFSO1qrBAAAA[0mvicky1
+Building in workspace /var/lib/jenkins/workspace/Hello1
+No emails were triggered.
+[Hello1] $ /bin/sh -xe /tmp/jenkins7977894013154464205.sh
++ echo 'hello vikas'
+hello vikas
+No emails were triggered.
+Finished: SUCCESS

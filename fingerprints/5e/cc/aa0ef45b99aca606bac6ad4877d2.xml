@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-05-10 10:26:41.79 UTC</timestamp>
+  <original>
+    <name>vikasproject_1/com.git.testing:SampleTest</name>
+    <number>1</number>
+  </original>
+  <md5sum>5eccaa0ef45b99aca606bac6ad4877d2</md5sum>
+  <fileName>com.git.testing:SampleTest.war</fileName>
+  <usages>
+    <entry>
+      <string>vikasproject_1</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>vikasproject_1/com.git.testing:SampleTest</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

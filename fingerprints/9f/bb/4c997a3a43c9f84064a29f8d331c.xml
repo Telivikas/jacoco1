@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-05-10 10:26:41.38 UTC</timestamp>
+  <original>
+    <name>vikasproject_1/com.git.testing:SampleTest</name>
+    <number>1</number>
+  </original>
+  <md5sum>9fbb4c997a3a43c9f84064a29f8d331c</md5sum>
+  <fileName>com.git.testing:SampleTest:pom.xml</fileName>
+  <usages>
+    <entry>
+      <string>vikasproject_1</string>
+      <ranges>1-2</ranges>
+    </entry>
+    <entry>
+      <string>vikasproject_1/com.git.testing:SampleTest</string>
+      <ranges>1-2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

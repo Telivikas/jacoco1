@@ -1,0 +1,10 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.plugins.sonar.SonarRunnerInstallation_-DescriptorImpl plugin="sonar@2.8.1">
+  <installations>
+    <hudson.plugins.sonar.SonarRunnerInstallation>
+      <name>Sonar</name>
+      <home>http://54.159.205.43:9000</home>
+      <properties/>
+    </hudson.plugins.sonar.SonarRunnerInstallation>
+  </installations>
+</hudson.plugins.sonar.SonarRunnerInstallation_-DescriptorImpl>
